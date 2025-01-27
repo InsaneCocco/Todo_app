@@ -1,0 +1,4 @@
+# This file will not be commited to git.
+
+'CONFIG':
+  'SECRET_KEY': 'django-insecure-=q$d(y%6p_7yo7$w5c^+bfca39^%poii9$jq%l)o(o=@cji493'
